@@ -10,6 +10,8 @@
 ## Description
 
 This project is Module 19 challenge of U of U's professional bootcamp. This project uses IndexedDB and local storage to store text, and allow the user to install the app directly to their machines.
+App created during homework review session with TAs.
+
 ## Installation
 
 N/A
